@@ -1,7 +1,7 @@
 function sayHello() {
-	console.log('Hello World');
+	console.log('say Hello');
 }
 
 function sayWorld() {
-	console.log('World');
+	console.log('say World');
 }
